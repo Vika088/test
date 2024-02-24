@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 10px;
+    background-color: #18191C;
+    color: red;
+    font-family: "Roboto", sans-serif;
+  }
+
+table {
+  width: 650px;
+  border-top: 7px solid red;
+  border-collapse: collapse;
+  text-align: center;
+  margin-bottom: 20px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  box-shadow: black 1px 0 30px;
+}
+
+td {
+  text-align: center;
+  text-shadow: yellow 1px 0 20px;
+	padding: 10px;
+	border: 3px solid red;
+  img:hover {
+    border: 0.8px solid yellow;
+}
+}
+ th {
+  text-align: center;
+  padding: 10px;
+	border: 3px solid red;
+ }
+ button{
+    .link {color: black;}
+    .link:hover {color: white;}
+    text-align: center;
+    border-radius: 15%;
+    line-height: 30px;
+    box-shadow: red 1px 0 30px;
+}
